@@ -2,7 +2,7 @@
 
 This repository contains the frontend code for the Gateway Management application. It provides a user interface for interacting with the Gateway Management REST API.
 
-For the backend counterpart, please refer to the [GatewayManagementAPI](#) repository.
+For the backend counterpart, please refer to the [GatewayManagementAPI](https://github.com/CalebTek/GatewayManagementAPI.git) repository.
 
 ## Features
 
